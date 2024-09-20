@@ -12,6 +12,9 @@ To indicate to some of it I would say that I **learned** and **practice**:
 - Component categories - stateless/presentational, stateful, structural -
 - **Prop drilling** and its challenges
 - Component composition that leads to flexible components and one of the possible to **prop drilling** problem.
+- Passing elements instead of using children prop.
+- Props as **component API**
+- Adding **Type-Checking** to **Component Props** using **Prop-types**.
 
 ## Q3: How to connect with me for any inquires related to these stuff?
 
